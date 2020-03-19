@@ -1,0 +1,23 @@
+Liidesed (interface)
+
+
+Tutvu failidega Arvutatav.java, RingiPindala.java ning Proov1.java. Kompileeri, käivita. Vaheta arve, jälgi tulemusi. 
+
+Lisa RingiPindala-ga sarnane klass RuuduPindala. Arvuta proovifailis mitmesuguste küljepikkustega ruutude pindalad. 
+
+Tutvu failiga Proov2Kuvamine.java. Pane selle abil kuvama ruutude pindalad.
+
+Tutvu failidega RistkylikuPindala.java ning  Proov3Kuvamine.java. Käivita RistkylikuPindala.java 5 cm laiuse ristkülikuga failis Proov2Kuvamine.java, kontrolli tulemuste usutavust. Lisa 5 cm laiune ristkülik Proov3Kuvamine-klassi juurde. 
+
+Koosta liidest Arvutatav realiseeriv klass RisttahukaRuumala, kuhu konstruktoris antakse ette pikkus ja laius, funktsioonis f k6rgus. Katseta klassi tööd failides Proov2Kuvamine.java ning Proov3Kuvamine.java mitmesuguste väärtustega.
+
+Pange üles oma tööd githubi kodutööde loetellu liideste osa alla. 
+Järgmiseks reedeks lisage sinna ka ise välja mõeldud näide liideste kohta koos selgituste ja näidetega
+
+
+
+Näiteid ja seletusi liideste kohta
+
+https://www.tutorialspoint.com/java/java_interfaces.htm
+
+https://www.w3schools.com/java/java_interface.asp
